@@ -4,7 +4,11 @@
   <img src="https://camo.githubusercontent.com/ef4eb77319c886771d511eece7ad68547d60e1d9/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65342f32362f37302f65343236373032656466383734623138316163656431653266613563366364652e676966" alt="Coder GIF" width="500" height="400">
 </p>
 
-Hi, I'm Kishan Lal, a student and a passionate self-taught programmer from Madurai, India.
+<p>
+  <em>
+    Hi, I'm Kishan Lal, a <b>student</b> <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Medal.gif" width=20 height=20> and a passionate self-taught <b>programmer</b> <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width=35 height=25> from Madurai, India.
+  </em>
+ </p>
 
 ### Worked with 
 
@@ -73,5 +77,3 @@ Hi, I'm Kishan Lal, a student and a passionate self-taught programmer from Madur
 </a>
 
 </p>
-  
-
