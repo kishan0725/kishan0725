@@ -1,14 +1,23 @@
 ## Hi there, I'm [Kishan](https://kishan0725.pythonanywhere.com/)! <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width=35 height=35> ![GitHub followers](https://img.shields.io/github/followers/kishan0725?style=social)
 
-<p align="center">
-  <img src="https://camo.githubusercontent.com/ef4eb77319c886771d511eece7ad68547d60e1d9/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65342f32362f37302f65343236373032656466383734623138316163656431653266613563366364652e676966" alt="Coder GIF" width="500" height="400">
-</p>
-
 <p>
   <em>
     Hi, I'm Kishan Lal, a <b>student</b> <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Medal.gif" width=20 height=20> and a passionate self-taught <b>programmer</b> <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width=35 height=25> from Madurai, India.
   </em>
  </p>
+
+<img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+ 
+ <br/> <br/>
+**Talking about Personal Stuffs:**
+
+- 👨🏽‍💻 I’m currently a student at [VCET](https://vcet.ac.in/);
+- 🤔 My interests are with Web Development, Data Science, etc..;
+- 💼 I’m pursuing a Bachelor's degree in Information Technology;
+- 💬 Ask me about anything, I am happy to help;
+- 📫 Please email via kishanlal0725@gmail.com to reach me.
+- 📝 See my [Resume](https://drive.google.com/file/d/1POd9NyDIupH_oGFa3VMwt6Cekxf4c7X7/view?usp=sharing) to get more info.
+<br/> <br/> <br/> 
 
 ### Worked with 
 
