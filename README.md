@@ -9,6 +9,7 @@
 <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
  
  <br/> <br/> <br/>
+<em>
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently a student at [VCET](https://vcet.ac.in/);
@@ -18,6 +19,7 @@
 - 📫 Please email via kishanlal0725@gmail.com to reach me.
 - 📝 See my [Resume](https://drive.google.com/file/d/1POd9NyDIupH_oGFa3VMwt6Cekxf4c7X7/view?usp=sharing) to get more info.
 <br/> <br/> <br/> 
+</em>
 
 ### Worked with 
 
