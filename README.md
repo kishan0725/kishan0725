@@ -1,7 +1,7 @@
 ## Hi there, I'm [Kishan](https://kishan0725.pythonanywhere.com/)! 👋 ![GitHub followers](https://img.shields.io/github/followers/kishan0725?style=social)
 
 <p align="center">
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
+  <img src="https://camo.githubusercontent.com/ef4eb77319c886771d511eece7ad68547d60e1d9/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65342f32362f37302f65343236373032656466383734623138316163656431653266613563366364652e676966" alt="Coder GIF" width="500" height="400">
 </p>
 
 Hi, I'm Kishan Lal, a student and a passionate self-taught programmer from Madurai, India.
