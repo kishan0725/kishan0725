@@ -6,9 +6,8 @@
   </em>
  </p>
 
-<img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
- 
- <br/> <br/> <br/>
+<img align="right" alt="Coder GIF" height=250 width=350 src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+
 <em>
 **Talking about Personal Stuffs:**
 
@@ -18,7 +17,7 @@
 - 💬 Ask me about anything, I am happy to help;
 - 📫 Please email via kishanlal0725@gmail.com to reach me.
 - 📝 See my [Resume](https://drive.google.com/file/d/1POd9NyDIupH_oGFa3VMwt6Cekxf4c7X7/view?usp=sharing) to get more info.
-<br/> <br/> <br/> 
+<br/> 
 </em>
 
 ### Worked with 
