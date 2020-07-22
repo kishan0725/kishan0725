@@ -1,5 +1,7 @@
 ## Hi there, I'm [Kishan](https://kishan0725.pythonanywhere.com/)! <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width=35 height=35> ![GitHub followers](https://img.shields.io/github/followers/kishan0725?style=social)
 
+![Profile Views](https://komarev.com/ghpvc/?username=kishan0725&style=flat-square)
+
 <p>
   <em>
     A <b>student</b> <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Medal.gif" width=20 height=20> and a passionate self-taught <b>programmer</b> <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width=35 height=25> from Madurai, India.
@@ -12,9 +14,9 @@
   
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently a student at [VCET](https://vcet.ac.in/);
+- 👨🏽‍💻 I’m currently a developer intern at [Coda Global](https://coda.global/);
+- 💼 I’m pursuing a Bachelor's degree in Information Technology at [VCET](https://vcet.ac.in/);
 - 🤔 My interests are with Web Development, Data Science, etc..;
-- 💼 I’m pursuing a Bachelor's degree in Information Technology;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 Please email via kishanlal0725@gmail.com to reach me.
 - 📝 See my [Resume](https://drive.google.com/file/d/1POd9NyDIupH_oGFa3VMwt6Cekxf4c7X7/view?usp=sharing) to get more info.
