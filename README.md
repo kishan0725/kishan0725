@@ -14,7 +14,7 @@
   
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently a developer intern at [Coda Global](https://coda.global/);
+- 👨🏽‍💻 I’m currently a full-stack developer intern at [Coda Global](https://coda.global/);
 - 💼 I’m pursuing a Bachelor's degree in Information Technology at [VCET](https://vcet.ac.in/);
 - 🤔 My interests are with Web Development, Data Science, etc..;
 - 💬 Ask me about anything, I am happy to help;
@@ -65,7 +65,6 @@
 
 </p>
 
-<br />
 
 <p align="center">
   
@@ -75,7 +74,6 @@
 
 </p>
 
-<br />
 
 <p align="center">
   
