@@ -15,11 +15,11 @@
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently a full-stack developer intern at [Coda Global](https://coda.global/);
-- 💼 I’m pursuing a Bachelor's degree in Information Technology at [VCET](https://vcet.ac.in/);
-- 🤔 My interests are with Web Development, Data Science, etc..;
+- 💼 I’m currently pursuing my final year of Bachelor's degree in Information Technology at [VCET](https://vcet.ac.in/);
+- 🤔 My interests are with Web App Development, Data Science, etc..;
+- 🎬 I love watching movies and I'm a big fan of MCU;
 - 💬 Ask me about anything, I am happy to help;
-- 📫 Please email via kishanlal0725@gmail.com to reach me.
-- 📝 See my [Resume](https://drive.google.com/file/d/1POd9NyDIupH_oGFa3VMwt6Cekxf4c7X7/view?usp=sharing) to get more info.
+- 📫 Please email via kishanlal0725@gmail.com to reach me;
 <br/> 
 </em>
 
