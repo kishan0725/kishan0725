@@ -17,7 +17,7 @@
 - 👨🏽‍💻 I’m currently a full-stack developer intern at [Coda Global](https://coda.global/);
 - 💼 I’m currently pursuing my final year of Bachelor's degree in Information Technology at [VCET](https://vcet.ac.in/);
 - 🤔 My interests are with Web App Development 🖥️, Data Science 📊, Cricket 🏏, Space 🚀, etc..;
-- 🎬 I love watching movies and I'm a big fan of MCU 🦸
+- 🎬 I love watching movies and I'm a big fan of MCU <img src="https://www.pngfind.com/pngs/m/173-1737725_captain-americas-shield-hd-png-download.png" width=15 height=15>
 - 💬 Ask me about anything, I am happy to help;
 - 📫 Please email via kishanlal0725@gmail.com to reach me;
 <br/> 
@@ -47,9 +47,7 @@
 
 ### GitHub Stats (Public Contributions Only 😑)
 
-<p align="center">
-<a href="https://github.com/kishan0725"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=kishan0725&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515" alt="Kishan's GitHub Stats"></a>
-</p> 
+![Kishan's github stats](https://github-readme-stats-aj8vj7k8x.vercel.app/api?username=kishan0725&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515)
 
 ### Follow me
 
@@ -57,20 +55,7 @@
 
 ### Top repositories
 
-<p align="center">
-  
-<a href="https://github.com/kishan0725/AJAX-Movie-Recommendation-System-with-Sentiment-Analysis">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=kishan0725&repo=AJAX-Movie-Recommendation-System-with-Sentiment-Analysis&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
-</a>
+![AJAX-MRS](https://github-readme-stats-aj8vj7k8x.vercel.app/api/pin/?username=kishan0725&repo=AJAX-Movie-Recommendation-System-with-Sentiment-Analysis&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
-</p>
-
-
-<p align="center">
-  
-<a href="https://github.com/kishan0725/The-Movie-Cinema">
-  <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=kishan0725&repo=The-Movie-Cinema&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
-</a>
-
-</p>
+![The Movie Cinema](https://github-readme-stats-aj8vj7k8x.vercel.app/api/pin/?username=kishan0725&repo=The-Movie-Cinema&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
