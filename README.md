@@ -47,7 +47,19 @@
 
 ### GitHub Stats (Public Contributions Only 😑)
 
-![Kishan's github stats](https://github-readme-stats-aj8vj7k8x.vercel.app/api?username=kishan0725&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515)
+<p align="center">
+  <a href = "https://github.com/kishan0725">
+<img src="https://github-readme-stats-aj8vj7k8x.vercel.app/api?username=kishan0725&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515">
+  </a>
+ </p>
+ 
+### Top Languages
+
+<p align="center">
+<a href = "https://github.com/kishan0725">
+  <img src="https://github-readme-stats-aj8vj7k8x.vercel.app/api/top-langs/?username=kishan0725&layout=compact&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515">
+</a>
+</p>
 
 ### Follow me
 
@@ -55,7 +67,15 @@
 
 ### Top repositories
 
-![AJAX-MRS](https://github-readme-stats-aj8vj7k8x.vercel.app/api/pin/?username=kishan0725&repo=AJAX-Movie-Recommendation-System-with-Sentiment-Analysis&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+<p align="center">
+  <a href = "https://github.com/kishan0725/AJAX-Movie-Recommendation-System-with-Sentiment-Analysis">
+<img src="https://github-readme-stats-aj8vj7k8x.vercel.app/api/pin/?username=kishan0725&repo=AJAX-Movie-Recommendation-System-with-Sentiment-Analysis&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515">
+  </a>
+</p>
 
-![The Movie Cinema](https://github-readme-stats-aj8vj7k8x.vercel.app/api/pin/?username=kishan0725&repo=The-Movie-Cinema&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+<p align="center">
+  <a href="https://github.com/kishan0725/The-Movie-Cinema">
+  <img src="https://github-readme-stats-aj8vj7k8x.vercel.app/api/pin/?username=kishan0725&repo=The-Movie-Cinema&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515">
+  </a>
+  </p>
 
