@@ -36,6 +36,7 @@
 <code><img height="40" src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" title="java"></code>
 <code><img height="40" src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" title="typescript"></code>
 <code><img height="40" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" title="flask"></code>
+<code><img height="40" src="https://devicon.dev/devicon.git/icons/protractor/protractor-plain.svg" title="protractor"></code>
 <code><img height="40" src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" title="react"></code>
 <code><img height="40" src="https://devicons.github.io/devicon/devicon.git/icons/angularjs/angularjs-original.svg" title="angular"></code>
 <code><img height="40" src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" title="mongodb"></code>
