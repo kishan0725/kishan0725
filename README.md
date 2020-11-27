@@ -10,6 +10,7 @@
 
 <img align="right" alt="Coder GIF" height=250 width=350 src="https://magiccopy.xyz/assets/images/hadder.gif" />
 
+<em> Want to know more about me? [Click here](https://kishan0725.pythonanywhere.com/) </em>
 <em>
   
 **Talking about Personal Stuffs:**
