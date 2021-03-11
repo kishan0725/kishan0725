@@ -1,4 +1,4 @@
-## Hi there, I'm [Kishan](https://kishan0725.github.io/)! <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width=35 height=35>
+## Hi there, I'm [Kishan](https://kishanlal.tech/)! <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width=35 height=35>
 
 <p>
   <em>
@@ -8,7 +8,7 @@
 
 <img align="right" alt="Coder GIF" height=250 width=350 src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
-<em> Want to know more about me? [Click here](https://kishan0725.github.io/) </em>
+<em> Want to know more about me? [Click here](https://kishanlal.tech/) </em>
 <em>
   
 **Talking about Personal Stuffs:**
