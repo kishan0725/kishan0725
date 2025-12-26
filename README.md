@@ -26,6 +26,7 @@
 
 #### Generative AI
 <code><img height="40" src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/light/langgraph-color.png" title="langgraph"></code>
+<code><img height="40" src="https://peterroelants.github.io/images/llm/ReactLogo.png" title="ai-agents"></code>
 <code><img height="40" src="https://d1.awsstatic.com/onedam/marketing-channels/website/aws/en_US/product-categories/ai-ml/machine-learning/approved/images/256f3da1-3193-441c-b93c-b2641f33fdd6.0da8c5fe893dfd7b3738b6c2c3d71d5586d58ccc.jpeg" title="bedrock"></code>
 <code><img height="40" src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/light/langchain-color.png" title="langchain"></code>
 <code><img height="40" src="https://avatars.githubusercontent.com/u/182288589" title="mcp"></code>
@@ -52,10 +53,10 @@
 <code><img height="40" src="https://cdn.freebiesupply.com/logos/large/2x/sequelize-logo-png-transparent.png" title="sequelize-orm"></code>
 
 #### Database & ORM
-<code><img height="40" src="https://icon2.cleanpng.com/20180715/fos/aaveiw5x1.webp" title="mysql"></code>
-<code><img height="40" src="https://svgmix.com/uploads/skillicons/5c80e9-mongodb.svg" title="mongodb"></code>
+<code><img height="40" src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" title="mysql"></code>
+<code><img height="40" src="https://www.vhv.rs/dpng/d/145-1450243_mongodb-logo-png-transparent-png.png" title="mongodb"></code>
 <code><img height="40" src="https://cdn.freebiesupply.com/logos/large/2x/sequelize-logo-png-transparent.png" title="sequelize-orm"></code>
-<code><img height="40" src="https://media.licdn.com/dms/image/v2/D5612AQHHUzkz9Ie1Zg/article-cover_image-shrink_423_752/article-cover_image-shrink_423_752/0/1695866608071?e=1761177600&v=beta&t=BvIKClqM462v5MFuleCjdaWQJ-zKQicOtEuQ3XPutSQ" title="drizzle-orm"></code>
+<code><img height="40" src="https://github.com/drizzle-team/drizzle-orm/raw/main/misc/readme/logo-github-sq-dark.svg#gh-dark-mode-only" title="drizzle-orm"></code>
 <code><img height="40" src="https://miro.medium.com/v2/resize:fit:642/1*aay8IzJhX2AYSuIVPvv3uA.png" title="spring-data-jpa"></code>
 
 #### Infra & Security
@@ -84,7 +85,7 @@
 
 <p align="center">
   <a href = "https://github.com/kishan0725">
-<img src="https://github-readme-stats.vercel.app/api?username=kishan0725&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&count_private=true&include_all_commits=true">
+<img src="https://readme-stats-fast.vercel.app/api?username=kishan0725&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&count_private=true&include_all_commits=true">
   </a>
  </p>
  
